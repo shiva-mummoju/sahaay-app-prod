@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */body{background-color:#7b1fa2}button{cursor:pointer}body::-webkit-scrollbar{width:1px}.data{text-align:center;color:#fff;height:30px;word-break:break-all}.myrow{background-color:#fff;color:#000;cursor:pointer;border-bottom:2px solid grey
     /* border-right: 2px solid grey; */}.myrow:hover{cursor:pointer;background-color:#dcdcdc}.col{padding-top:15px;padding-bottom:15px;
-    /* word-wrap: break-word; */word-break:break-all}.head{background-color:teal;color:#fff}/* based on angular-toastr css https://github.com/Foxandxss/angular-toastr/blob/cb508fe6801d6b288d3afc525bb40fee1b101650/dist/angular-toastr.css */
+    /* word-wrap: break-word; */word-break:break-all}.head{background-color:teal}.head,.myclass{color:#fff}/* based on angular-toastr css https://github.com/Foxandxss/angular-toastr/blob/cb508fe6801d6b288d3afc525bb40fee1b101650/dist/angular-toastr.css */
 
 /* position */.toast-center-center{top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.toast-top-center{top:0;right:0;width:100%}.toast-bottom-center{bottom:0;right:0;width:100%}.toast-top-full-width{top:0;right:0;width:100%}.toast-bottom-full-width{bottom:0;right:0;width:100%}.toast-top-left{top:12px;left:12px}.toast-top-right{top:12px;right:12px}.toast-bottom-right{right:12px;bottom:12px}.toast-bottom-left{bottom:12px;left:12px}
 
